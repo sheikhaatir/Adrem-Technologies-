@@ -1,0 +1,17 @@
+{
+    "email": "test@gmai.com",
+    "password": "test123",
+    "products": [
+        {"url": "https://demowebshop.tricentis.com/25-virtual-gift-card", "quantity": 1},
+        {"url": "https://demowebshop.tricentis.com/simple-computer", "quantity": 2}
+    ],
+    "address": {
+        "first_name": "test",
+        "last_name": "tester",
+        "address1": "123 Main St",
+        "city": "Test",
+        "state": "PU",
+        "zip": "12345",
+        "country": "Pakistan"
+    }
+}
